@@ -1,10 +1,5 @@
 # CPIS
-Centralized Patient Information System(CPIS)
-An electronic health record management system
-We developed this project for version19 code competition held at NIT, Tiruchirapalli.
-
-# SETUP
-https://www.youtube.com/watch?v=Lm0KoD0iF2o 
+This is a web based application developed for health related telugu based website in india
 
 # Snapshots : 
 ![alt Output1](https://raw.githubusercontent.com/roshansourav/CPIS/master/Screenshots/Screenshot%20(35).png)
